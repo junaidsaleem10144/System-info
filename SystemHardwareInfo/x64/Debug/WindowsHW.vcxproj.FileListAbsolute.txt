@@ -1,0 +1,2 @@
+C:\Users\Junaid Saleem\Downloads\Compressed\WindowsHardwareInfo-main\WindowsHardwareInfo-main\x64\Debug\WindowsHW.exe
+C:\Users\Junaid Saleem\Downloads\Compressed\WindowsHardwareInfo-main\SystemHardwareInfo\x64\Debug\WindowsHW.exe
